@@ -37,8 +37,24 @@
 ||urlshortner.org
 ||biitt.ly/
 
-# malware
+# malware/phishing/scam
 
 ||hshopsmal2.cc/
 ||hshopsmal2.cc/
 ||seroxen.org/
+||capcpro.com/
+||coronavirus.app/
+||bliyzer.com/
+||cometa.ca/
+||devominer.com/
+||listnova.biz
+||bilionhash.com/
+||syiling.io/
+||forsage.cc/
+||deliam.cc/
+||mcdweb.com.br/
+||money4click-rpc.buzz/
+||survey-smiles.com/
+||reptraf.com/
+||mmentorapp.com/
+||anonymfile.com/
