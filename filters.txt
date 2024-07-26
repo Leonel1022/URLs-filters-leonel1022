@@ -66,4 +66,4 @@
 ||replif.com/
 ||ubsmmpt.com/
 ||theannoyingsite.com/
-||github.com/dersdick/DCRat/raw/main/DCRat.rar
+||github.com/dersdick/DCRat/
