@@ -4,18 +4,46 @@
 
 
 
-# ip logger:
+# IP loggers:
 
 ||grabify.link/
 ||iplogger.org/
+||grabify.org/
 
-# prevencion:
+# Prevencion:
 ||vw3l.cuevana.biz/
 ||cuevana-3.mobi/
 ||cuevana.pro/
 ||hd.cuevana3.nu/
 
-# acortadores:
+# Posibles IP loggers:
+||concepcionblankship.za.com/
+||doaapodewils.buzz/
+||haniyabuder.click/
+||audryarkin.za.com/
+||leonoremanry.sa.com/
+||
+||
+||
+||
+||
+||
+||
+||
+||
+||
+||
+||
+||
+||
+||
+||
+||
+||
+||
+||
+
+# Acortadores:
 
 ||hootsuite.com/
 ||bitly.com/
@@ -37,10 +65,10 @@
 ||urlshortner.org
 ||biitt.ly/
 
-# malware/phishing/scam
+# Malware/Phishing/Scam
 
 ||hshopsmal2.cc/
-||hshopsmal2.cc/
+||papcash.b-cdn.net/
 ||seroxen.org/
 ||capcpro.com/
 ||coronavirus.app/
@@ -86,8 +114,8 @@
 ||solutionpxmuzo.shop/
 ||steamcommnunjity.com/
 ||nnrvy.uk.com/
-||
-||
+||3242-dashcloud.pages.dev/
+||clouddycuiomsnz.shop/
 ||
 ||
 ||
