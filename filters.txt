@@ -48,7 +48,7 @@
 ||t2mio.com/
 ||urlshortner.org
 
-# Malware/Phishing/Scam:
+# Malware/Phishing/Scam/C2:
 ||3242-dashcloud.pages.dev/
 ||anonymfile.com/
 ||apkgstore.com/
@@ -110,3 +110,12 @@
 ||2048tk.com/
 ||ru.com/
 ||segaearn.com/
+||shinny-nigeria-billiobs.on-fleek.app/
+||shinny-nigeria-billions.on-fleek.app/
+||on-fleek.app/
+||linewo.site/
+||insaatfender.top/
+||strogonoff.xyz/
+||boludo.online/
+||yupinxiangmu66.net/
+||twnorthing.shop/
