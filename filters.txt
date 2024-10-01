@@ -4,7 +4,7 @@
 ||grabify.link/
 ||grabify.org/
 ||iplogger.org/
-
+.
 # Prevencion:
 ||cuevana-3.mobi/
 ||cuevana.pro/
