@@ -154,3 +154,4 @@ https://github.com/Leonel1022/URLs-filters-leonel1022/
 ||gofirst.cn.com/
 ||123.60.104.67:32132/EoDd
 ||123.60.104.67/
+||172.245.123.9/780/
