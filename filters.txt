@@ -150,3 +150,4 @@ https://github.com/Leonel1022/URLs-filters-leonel1022/
 ||sa.com/
 ||kef.lxhaz.top/
 ||103.130.147.211/
+||103.130.147.211/Files/
