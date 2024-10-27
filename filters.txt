@@ -162,6 +162,6 @@ https://github.com/Leonel1022/URLs-filters-leonel1022/
 ||sost2024ene.duckdns.org
 ||mercadollibre.net
 ||181.215.253.120/aBzMadePq.exe
-||store8.gofile.io
+||store8.gofile.io/
 ||missingphotos.com/
 ||web.app/
