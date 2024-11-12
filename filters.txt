@@ -1,5 +1,5 @@
 ! title: URLs-filters-leonel1022
-!Ultima Actualizacion (DD/MM/AAAA): 11/11/2024 
+!Ultima Actualizacion (DD/MM/AAAA): 12/11/2024 
 Repositorio de la lista de filtros en
 https://github.com/Leonel1022/URLs-filters-leonel1022/
 
@@ -39,6 +39,7 @@ https://github.com/Leonel1022/URLs-filters-leonel1022/
 ||za.com/
 ||chloegholston.sa.com/
 ||aprylarqueta.buzz/
+||lejaloendorf.click
 
 # Acortadores:
 ||adf.ly/
