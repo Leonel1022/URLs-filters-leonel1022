@@ -1,5 +1,5 @@
 ! title: URLs-filters-leonel1022
-!Ultima Actualizacion (DD/MM/AAAA): 14/11/2024 
+!Ultima Actualizacion (DD/MM/AAAA): 15/11/2024 
 Repositorio de la lista de filtros en
 https://github.com/Leonel1022/URLs-filters-leonel1022/
 
@@ -60,7 +60,7 @@ https://github.com/Leonel1022/URLs-filters-leonel1022/
 ||shorturl.at/
 ||tinyurl.com/
 ||t2mio.com/
-||urlshortner.org
+||urlshortner.org/
 
 # Malware/Phishing/Scam/C2:
 ||2048tk.com/
