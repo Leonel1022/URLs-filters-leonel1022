@@ -1,5 +1,5 @@
 ! title: URLs-filters-leonel1022
-!Ultima Actualizacion (DD/MM/AAAA): 25/11/2024 
+!Ultima Actualizacion (DD/MM/AAAA): 26/11/2024 
 !Repositorio de la lista de filtros en
 https://github.com/Leonel1022/URLs-filters-leonel1022/
 
@@ -182,3 +182,4 @@ https://github.com/Leonel1022/URLs-filters-leonel1022/
 ||vulgarmilfs0xp.com
 ||rab1.premium-televizor.net
 ||gmdremotesupport.ddns.net
+||warhosting.ddns.net
