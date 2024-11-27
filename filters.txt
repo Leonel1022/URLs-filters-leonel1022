@@ -183,3 +183,13 @@ https://github.com/Leonel1022/URLs-filters-leonel1022/
 ||rab1.premium-televizor.net
 ||gmdremotesupport.ddns.net
 ||warhosting.ddns.net
+||bbva-consultas.com
+||bbva-es-acceso.com
+||es-bbva-acceso.com
+||acceso-bbvamovil.com
+||bbva-appcliente.com
+||bbva-clientesweb.com
+||bbva-movil-acceso.com
+||bbva-webclientes.com
+||bbvamovil-accesos.com
+||bbvanetcash-acceso.com
