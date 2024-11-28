@@ -193,3 +193,14 @@ https://github.com/Leonel1022/URLs-filters-leonel1022/
 ||bbva-webclientes.com
 ||bbvamovil-accesos.com
 ||bbvanetcash-acceso.com
+||bbvanetcash-accesos.com
+||movil-bbva-verificacion.com
+||netcash-bbva-ess.com
+||bbva-acceso-app.com
+||bbva-acceso-es.com
+||bbva-app-acceso.com
+||bbva-es-accesos.com
+||bbva-inicio-acceso.com
+||bbvaaclaraciones.com
+||es-bbva-particu-lares.com
+||particulares-bbva-es.com
