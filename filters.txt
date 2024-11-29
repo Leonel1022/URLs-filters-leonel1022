@@ -204,3 +204,13 @@ https://github.com/Leonel1022/URLs-filters-leonel1022/
 ||bbvaaclaraciones.com
 ||es-bbva-particu-lares.com
 ||particulares-bbva-es.com
+||support-bbva.com
+||verificacion-bbva-movil.com
+||bbva-verificacion-movil.com
+||bbvaempresa-acceso.com
+||es-bbvamovil-accesos.com
+||incidencia-bbva-movil.com
+||particular-es-bbva.com
+||particulares-es-bbva.com
+||acceso-bbvacliente.com
+||bbvasoporte-acceso.com
