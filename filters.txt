@@ -184,6 +184,9 @@ https://github.com/Leonel1022/URLs-filters-leonel1022/
 ||rab1.premium-televizor.net
 ||gmdremotesupport.ddns.net
 ||warhosting.ddns.net
+||roblox.com.zm
+
+# Dominios que podrian suplantar entidades veridicas
 ||bbva-consultas.com
 ||bbva-es-acceso.com
 ||es-bbva-acceso.com
@@ -215,7 +218,6 @@ https://github.com/Leonel1022/URLs-filters-leonel1022/
 ||particulares-es-bbva.com
 ||acceso-bbvacliente.com
 ||bbvasoporte-acceso.com
-||roblox.com.zm
 ||es-bbva-movil-app.com
 ||es-bbvacliente-acceso.com
 ||es-bbvamovil-acceso.com
