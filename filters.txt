@@ -277,3 +277,7 @@ https://github.com/Leonel1022/URLs-filters-leonel1022/
 ||scotiabankaclaraciones.com
 ||scotiabank-secureaccount.com
 ||scotiabanksucursales.com
+
+# Malware/Phishing/Scam/C2:
+
+||mundoparachicas.space
