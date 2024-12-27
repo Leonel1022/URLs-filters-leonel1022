@@ -349,3 +349,4 @@ https://github.com/Leonel1022/URLs-filters-leonel1022/
 ||chromeweb-authenticators.com
 ||chromeweb-authenticatr.com
 ||kejip.com
+||cutyurls.com
