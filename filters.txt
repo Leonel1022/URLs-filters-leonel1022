@@ -1,5 +1,5 @@
 ! title: Leonel1022-Web-Shield
-!Ultima Actualizacion (DD/MM/AAAA): 27/12/2024 
+!Ultima Actualizacion (DD/MM/AAAA): 28/12/2024 
 !Repositorio de la lista de filtros en
 https://github.com/Leonel1022/URLs-filters-leonel1022/
 
@@ -340,6 +340,25 @@ https://github.com/Leonel1022/URLs-filters-leonel1022/
 ||inicios-clientes-bbva.com
 ||bbva-avisos-es.com
 ||bbva-soporte.info
+||bbva-inicios-soportes.com
+||netcash-bbva-empresas.app
+||bbva-netcash-es.info
+||soportes-bbva-es.com
+||bbva-inicios-cliente.com
+||movil-bbva.site
+||bbva-apps-inicios.com
+||bbva-clientes-apps.com
+||bbva-inicios.app
+||incidencia-bbva-es.com
+||inicio-esp-bbva.com
+||web-bbva-soportes.com
+||bbva-inicios-soporte.com
+||bbva-clientes-esp.com
+||bbva-es-netcash.info
+||es-bbva-empresa.app
+||es-bbva-netcash.info
+||web-bbva-esp.com
+||clientes-bbva-esp.com
 
 # Malware/Phishing/Scam/C2:
 
