@@ -18,14 +18,21 @@ Este repositorio tiene como propósito exclusivo ayudar en la **seguridad web** 
 
 4. **Cumplimiento legal**:  
    - Asegúrate de que el uso de este contenido cumple con las leyes y regulaciones de tu país o región.  
-   - Cualquier uso que infrinja las leyes aplicables es responsabilidad exclusiva del usuario.
+   - Cualquier uso que infrinja las leyes aplicables es responsabilidad exclusiva del usuario y no del autor.
 
 5. **Reporta abusos**:  
    - Si encuentras un uso indebido del contenido de este repositorio, informa a los responsables del proyecto para que puedan tomar medidas adecuadas.
 
 ---
 
+## Agradecimientos
+
+Este proyecto incluye datos provenientes del Repositorio [Phishing-DataBase](https://github.com/Phishing-Database/Phishing.Database) bajo la [Licencia MIT](https://opensource.org/licenses/MIT).  
+
+Agradesco a la comunidad por compartir su trabajo y contribuir a la comunidad de los ingenieros en ciberseguridad. ♥
+
+---
+
 Este descargo de responsabilidad busca proteger al autor del repositorio. Al utilizar este contenido, aceptas cumplir con los términos y advertencias establecidos.
- 
 
 https://raw.githubusercontent.com/Leonel1022/URLs-filters-leonel1022/main/filters.txt
