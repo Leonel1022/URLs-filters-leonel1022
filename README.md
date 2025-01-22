@@ -23,11 +23,7 @@ Este repositorio tiene como propósito exclusivo ayudar en la **seguridad web** 
 5. **Reporta abusos**:  
    - Si encuentras un uso indebido del contenido de este repositorio, informa a los responsables del proyecto para que puedan tomar medidas adecuadas.
 
----
-
-## Agradecimientos
-
-Este proyecto incluye datos provenientes del Repositorio [Phishing-DataBase](https://github.com/Phishing-Database/Phishing.Database) bajo la [Licencia MIT](https://opensource.org/licenses/MIT).  
+---  
 
 Agradesco a la comunidad por compartir su trabajo y contribuir a la comunidad de los ingenieros en ciberseguridad. ♥
 
