@@ -29,6 +29,6 @@ Agradesco a la comunidad por compartir su trabajo y contribuir a la comunidad de
 
 ---
 
-Este descargo de responsabilidad busca proteger al autor del repositorio. Al utilizar este contenido, aceptas cumplir con los términos y advertencias establecidos.
+Este descargo de responsabilidad busca proteger al autor del repositorio. Al utilizar este contenido, aceptas cumplir con los términos y advertencias establecidos
 
 https://raw.githubusercontent.com/Leonel1022/URLs-filters-leonel1022/main/filters.txt
