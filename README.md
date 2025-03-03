@@ -21,7 +21,7 @@ Este repositorio tiene como propósito exclusivo ayudar en la **seguridad web** 
    - Cualquier uso que infrinja las leyes aplicables es responsabilidad exclusiva del usuario y no del autor.
 
 5. **Reporta abusos**:  
-   - Si encuentras un uso indebido del contenido de este repositorio, informa a los responsables del proyecto para que puedan tomar medidas adecuadas.
+   - Si encuentras un uso indebido del contenido de este repositorio, informa a los responsables del proyecto para que puedan tomar medidas adecuadas
 
 ---  
 
