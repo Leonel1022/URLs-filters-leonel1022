@@ -1,6 +1,6 @@
 ! title: Leonel1022-Web-Shield
 ! licencia: https://github.com/Leonel1022/URLs-filters-leonel1022/blob/main/LICENSE
-!Ultima Actualizacion (DD/MM/AAAA): 10/3/2025 
+!Ultima Actualizacion (DD/MM/AAAA): 11/3/2025 
 !Repositorio de la lista de filtros en
 !https://github.com/Leonel1022/URLs-filters-leonel1022/
 !Comunidad
@@ -22,18 +22,18 @@
 ||yip.su/
 
 # Adds
-||adserver.adtech.de
-||exoclick.com
-||onclickads.net
-||popads.net
-||propellerads.com
-||revcontent.com
-||trafficjunky.net
-||zedo.com
-||googleads.g.doubleclick.net
-||ad.doubleclick.net
-||facebook.com/tr
-||ads.facebook.com
+||adserver.adtech.de/
+||exoclick.com/
+||onclickads.net/
+||popads.net/
+||propellerads.com/
+||revcontent.com/
+||trafficjunky.net/
+||zedo.com/
+||googleads.g.doubleclick.net/
+||ad.doubleclick.net/
+||facebook.com/tr/
+||ads.facebook.com/
 
 # Prevencion:
 ||cuevana-3.mobi/
