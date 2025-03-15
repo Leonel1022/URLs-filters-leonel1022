@@ -1,6 +1,6 @@
 ! title: Leonel1022-Web-Shield
 ! licencia: https://github.com/Leonel1022/URLs-filters-leonel1022/blob/main/LICENSE
-!Ultima Actualizacion (DD/MM/AAAA): 13/3/2025 
+!Ultima Actualizacion (DD/MM/AAAA): 14/3/2025 
 !Repositorio de la lista de filtros en
 !https://github.com/Leonel1022/URLs-filters-leonel1022/
 !Comunidad
@@ -400,15 +400,15 @@ bbva-inicio-webs.com
 
 # Malware/Phishing/Scam/C2:
 
-||mundoparachicas.space
-||vcczen.eu
-||tmdr7.mom
-||chromeweb-authenticators.com
-||chromeweb-authenticatr.com
-||kejip.com
-||cutyurls.com
-||cryptowizz.top
-||worktaskl.top
-||vacancyschoolboywinding.com
-||cryptowizz.top
-||worktaskl.top
+||mundoparachicas.space/
+||vcczen.eu/
+||tmdr7.mom/
+||chromeweb-authenticators.com/
+||chromeweb-authenticatr.com/
+||kejip.com/
+||cutyurls.com/
+||cryptowizz.top/
+||worktaskl.top/
+||vacancyschoolboywinding.com/
+||cryptowizz.top/
+||worktaskl.top/
