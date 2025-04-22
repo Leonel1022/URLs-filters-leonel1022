@@ -1,6 +1,6 @@
 ! title: Leonel1022-Web-Shield
 ! licencia: https://github.com/Leonel1022/URLs-filters-leonel1022/blob/main/LICENSE
-!Ultima Actualizacion (DD/MM/AAAA): 04/04/2025 
+!Ultima Actualizacion (DD/MM/AAAA): 21/04/2025 
 !Repositorio de la lista de filtros en
 !https://github.com/Leonel1022/URLs-filters-leonel1022/
 !Comunidad
@@ -82,11 +82,11 @@
 ||clk.sh/
 ||clickmeter.com/
 ||cutt.ly/
-||goo.su
+||goo.su/
 ||hootsuite.com/
 ||is.gd/
-||n9.cl
-||onx.la
+||n9.cl/
+||onx.la/
 ||rebrand.ly/
 ||rebrandly.com/
 ||shorte.st/
