@@ -1,6 +1,6 @@
 ! title: Leonel1022-Web-Shield
 ! licencia: https://github.com/Leonel1022/URLs-filters-leonel1022/blob/main/LICENSE
-!Ultima Actualizacion (DD/MM/AAAA): 22/04/2025 
+!Ultima Actualizacion (DD/MM/AAAA): 24/04/2025 
 !Repositorio de la lista de filtros en
 !https://github.com/Leonel1022/URLs-filters-leonel1022/
 !Comunidad
@@ -57,7 +57,7 @@
 ||katelynsoderstrom.buzz/
 ||kayceheikkila.ru.com/
 ||lacie-maestritzke.za.com/
-||lejaloendorf.click
+||lejaloendorf.click/
 ||lejaloendorf.click/
 ||leonoremanry.sa.com/
 ||lilithvonderheide.za.com/
@@ -112,7 +112,7 @@
 ||anonymfile.com/
 ||apklinkedin.com/
 ||apkgstore.com/
-||argentina.bonosmujer.org
+||argentina.bonosmujer.org/
 ||assaultxnh.site/
 ||bilionhash.com/
 ||bliyzer.com/
@@ -123,7 +123,7 @@
 ||clouddycuiomsnz.shop/
 ||co.jp.cancunexploratours.com/
 ||cometa.ca/
-||contarraylean.store
+||contarraylean.store/
 ||coronavirus.app/
 ||dealzonegizmo.info/
 ||deliam.cc/
