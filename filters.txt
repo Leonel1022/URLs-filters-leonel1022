@@ -1,6 +1,6 @@
 ! title: Leonel1022-Web-Shield
 ! licencia: https://github.com/Leonel1022/URLs-filters-leonel1022/blob/main/LICENSE
-!Ultima Actualizacion (DD/MM/AAAA): 27/04/2025 
+!Ultima Actualizacion (DD/MM/AAAA): 28/04/2025 
 !Repositorio de la lista de filtros en
 !https://github.com/Leonel1022/URLs-filters-leonel1022/
 !Comunidad
