@@ -1,6 +1,6 @@
 ! title: Leonel1022-Web-Shield
 ! licencia: https://github.com/Leonel1022/URLs-filters-leonel1022/blob/main/LICENSE
-!Ultima Actualizacion (DD/MM/AAAA): 11/05/2025 
+!Ultima Actualizacion (DD/MM/AAAA): 18/05/2025 
 !Repositorio de la lista de filtros en
 !https://github.com/Leonel1022/URLs-filters-leonel1022/
 !Comunidad
@@ -416,3 +416,4 @@ bbva-cliente-apps.com
 ||tgmirror .top
 ||telegatt .top
 ||5.181.156.229/
+||allegrolokalnie.pl-firmowe885.icu/oferta/77wMjGRqUtCZsjw-z3ybTnKKOmRaUDc-UhdQm3wmk0yl4ql/
