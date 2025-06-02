@@ -1,6 +1,6 @@
 ! title: Leonel1022-Web-Shield
 ! licencia: https://github.com/Leonel1022/URLs-filters-leonel1022/blob/main/LICENSE
-!Ultima Actualizacion (DD/MM/AAAA): 30/05/2025 
+!Ultima Actualizacion (DD/MM/AAAA): 02/06/2025 
 !Repositorio de la lista de filtros en
 !https://github.com/Leonel1022/URLs-filters-leonel1022/
 !Comunidad
@@ -137,7 +137,7 @@
 ||Fornite99.com/
 ||forsage.cc/
 ||frannykamj.store/
-||gmdremotesupport.ddns.net
+||gmdremotesupport.ddns.net/
 ||github-scanner.com/
 ||github.com/dersdick/DCRat/
 ||gofirst.cn.com/
@@ -170,7 +170,7 @@
 ||puh.mmm.mybluehost.me/
 ||qowiiw.com/
 ||qwdsrsg-rsrgdrh.icu/
-||rab1.premium-televizor.net
+||rab1.premium-televizor.net/
 ||reinfosecedirectorywd.shop/
 ||replif.com/
 ||reptraf.com/
@@ -204,7 +204,7 @@
 ||vaniloin.fun/
 ||violanntyisopz.shop/
 ||vulgarmilfs0xp.com/
-||warhosting.ddns.net
+||warhosting.ddns.net/
 ||web.app/
 ||webflow.io/
 ||webinicio-bbva.com/
@@ -215,19 +215,19 @@
 
 # Dominios que podrian suplantar entidades veridicas
 
-||acceso-bancsantander.com
-||acceso-bbvacliente.com
-||acceso-bbvamovil.com
-||accesos-bbvamovil.com
-||app-bbva-acceso.com
-||app-bbva-alertas.com
-||app-bbva-clientes.com
-||auth-scotiabankveriflogin.com
-||ayuda-bbva-movil.com
-||bancsantander-acceso.com
-||bbva-acceso-app.com
-||bbva-acceso-es.com
-||bbva-acceso-inicio.com
+||acceso-bancsantander.com/
+||acceso-bbvacliente.com/
+||acceso-bbvamovil.com/
+||accesos-bbvamovil.com/
+||app-bbva-acceso.com/
+||app-bbva-alertas.com/
+||app-bbva-clientes.com/
+||auth-scotiabankveriflogin.com/
+||ayuda-bbva-movil.com/
+||bancsantander-acceso.com/
+||bbva-acceso-app.com/
+||bbva-acceso-es.com/
+||bbva-acceso-inicio.com/
 ||bbva-acceso-web.com
 ||bbva-app-acceso.com
 ||bbva-appcliente.com
