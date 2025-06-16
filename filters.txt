@@ -12,7 +12,7 @@
 ||ads.yahoo.com/
 ||doubleclick.net/
 ||track.adform.net/
-||onelink.me/
+||onelink.me/^
 
 # IP loggers:
 ||bmwforum.co/
