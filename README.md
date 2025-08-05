@@ -25,7 +25,7 @@ Este repositorio tiene como propósito exclusivo ayudar en la **seguridad web** 
 
 ---  
 
-Agradesco a la comunidad por compartir su trabajo y contribuir a la comunidad de los ingenieros en ciberseguridad. ♥
+Agradesco a la comunidad por compartir su trabajo y ayudar al mundo a ser un lugar mejor. ♥
 
 ---
 
