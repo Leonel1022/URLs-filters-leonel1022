@@ -422,3 +422,6 @@ bbva-cliente-apps.com
 ||222.140.239.9/
 ||acmelafe.cfd/
 
+# Rastreadores
+
+||flashtalking.com^
